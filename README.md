@@ -2,7 +2,7 @@
 
 This is a simple **Android native application** built using **Java**.  
 It consists of **two screens**:  
-1️⃣ **Login Screen** - Users enter their username & password. 
+1️⃣ **Login Screen** - Users enter their username & password.   
 2️⃣ **Welcome Screen** - Displays "Welcome, [Username]" after login.  
 
 ## Features  
